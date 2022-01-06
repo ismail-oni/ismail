@@ -1,0 +1,143 @@
+.color-1{
+    color: orange;
+    
+}
+.color-2{
+    color: maroon;
+}
+.color-3{
+    color: yellowgreen;
+
+}
+#nam{
+    color: rgb(235, 16, 45);
+    font-size: 250%;
+}
+h3{
+    color: violet;
+}
+#nam-2{
+   text-align: center; 
+   color: deeppink;
+   padding-top: 5%;
+   
+}
+h2{
+ color: rgb(63, 20, 235);
+    text-align: center;
+}
+body{
+    font-family: 'Lobster', cursive;
+font-family: 'Luxurious Roman', cursive;
+margin: 0;
+}
+section{
+    display: flex;
+    margin: auto;
+}
+.blog-1{
+    width: 50%;
+    padding-left: 5%;
+    
+}
+.blog-1 p{
+    text-align: justify;
+}
+.blog-img-1 img{
+    width: 95% ;
+    padding-left:5%;
+    
+  
+}
+.blog-3{
+    width: 50%;
+    padding-right: 5%;
+    padding-top: 8%;
+    padding-left: 0%;
+}
+.blog-3 p{
+    text-align:justify;
+}
+.blog-img-3 img{
+    width: 50%;
+    padding-top: 8%;
+    height: 60%;
+    padding-left:5%;
+
+}
+
+
+.link-button{
+    text-decoration: none ;
+    background-image:linear-gradient(tomato, rgb(240, 180, 17) );
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 800;
+}
+
+.sec-2{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+
+}
+
+.a-blog-2{
+    background-color: rgb(19, 248, 84);
+    text-align: center;
+    margin-top: 50px;
+    width: 250px;
+    border: 1px solid  rgb(9, 236, 54) ;
+    box-shadow: 4px 4px 12px rgb(27, 221, 40);
+    border-radius: 15px;
+}
+.blog-img-2 img{
+
+    width: 250px;
+
+}
+.blog-2.0{
+
+    padding: 20px; 
+}
+
+.b-blog-2{
+
+    background-color: rosybrown;
+    text-align: center;
+    margin-top: 50px;
+    width: 250px;
+    border: 1px solid  rosybrown ;
+    box-shadow: 4px 4px 12px  rosybrown;
+    border-radius: 15px;
+
+}
+.c-blog-2{
+    background-color: rgb(140, 226, 220);
+    text-align: center;
+    margin-top: 50px;
+    width: 250px;
+    border: 1px solid cyan ;
+    box-shadow: 4px 4px 12px cyan ;
+    border-radius: 15px ;
+    
+}
+
+
+.blog-4{
+    width: 50%;
+    padding-right: 5%;
+    padding-top: 8%;
+    padding-left: 10%;
+}
+.blog-4 p{
+    text-align:justify;
+}
+.blog-img-4 img{
+    width: 80%;
+    padding-top: 8%;
+    height: 60%;
+    padding-left:15%;
+
+
