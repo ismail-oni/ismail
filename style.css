@@ -10,11 +10,11 @@
 
 }
 #nam{
-    color: rgb(235, 16, 45);
-    font-size: 300%;
-    border-left:5px solid rgb(226, 9, 125);
-    
+    border-left: 5px solid cyan ;
+    color: darkcyan;
+    font-size: 50px;
 }
+    
 h3{
     color: violet;
 }
@@ -144,10 +144,11 @@ section{
 }
 
 footer p{
-color: rgb(162, 235, 17);
-text-align: center;
-font-size: 100%;
+    text-align: center;
+    font-size: 50px;
 background-color: black;
+color: crimson;
+height: 60px
 
 }
 
